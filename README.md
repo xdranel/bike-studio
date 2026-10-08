@@ -19,7 +19,7 @@ Cara 1:
 ## Authors
 
 - [xdranel](https://github.com/xdranel)
-- [](https://github.com/)
+- [AzkaZafran](https://github.com/AzkaZafran)
 - [](https://github.com/)
 - [](https://github.com/)
 - [](https://github.com/)
