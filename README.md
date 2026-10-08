@@ -4,6 +4,14 @@ is a web application for....
 
 
 
+Buat kalian member team sementara lakukan ini biar muncul di contributors
+
+Cara 1:
+- git clone https://github.com/xdranel/bike-studio
+- Edit README.md
+
+
+
 ## License
 
 [LICENSE](LICENSE)
