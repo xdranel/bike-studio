@@ -49,7 +49,7 @@ kenapa langkah ini dipakai biar setiap perubahan melalui PULL REQUEST!!
 
 - [xdranel](https://github.com/xdranel)
 - [AzkaZafran](https://github.com/AzkaZafran)
-- [](https://github.com/)
+- [sijuki09](https://github.com/sijuki09)
 - [](https://github.com/)
 - [](https://github.com/)
 - [](https://github.com/)
