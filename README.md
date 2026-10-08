@@ -51,7 +51,7 @@ kenapa langkah ini dipakai biar setiap perubahan melalui PULL REQUEST!!
 - [AzkaZafran](https://github.com/AzkaZafran)
 - [sijuki09](https://github.com/sijuki09)
 - [ahmadpasham1200](https://github.com/ahmadpasham1200)
-- [](https://github.com/)
+- [Arkkop12](https://github.com/Arkkop12)
 - [](https://github.com/)
 - [](https://github.com/)
 - [](https://github.com/)
