@@ -37,9 +37,8 @@ jadi langkahnya:
 - git add apa saja yang di add
 - git commit -m "pesan" (untuk message commit convention bisa di cek pada https://www.conventionalcommits.org/en/v1.0.0/)
 - git push -u origin namabranch
-- lakukan pull request pada github repo
 
-kenapa langkah ini dipakai biar setiap perubahan melalui PULL REQUEST!!
+JANGAN LUPA Sebelum push ngomong o cik di grup, biar gk conflict biar pada pull atau fetch biar pada merge di local
 
 ## License
 
