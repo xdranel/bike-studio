@@ -51,7 +51,7 @@ JANGAN LUPA Sebelum push ngomong o cik di grup, biar gk conflict biar pada pull 
 - [sijuki09](https://github.com/sijuki09)
 - [ahmadpasham1200](https://github.com/ahmadpasham1200)
 - [Arkkop12](https://github.com/Arkkop12)
-- [](https://github.com/)
+- [idilhaqalfarisi](https://github.com/idilhaqalfarisi)
 - [](https://github.com/)
 - [](https://github.com/)
 
