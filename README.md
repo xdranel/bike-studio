@@ -10,7 +10,7 @@ is a web application for....
 
 ## Authors
 
-- [Gendhi Ramona P](https://github.com/XDX1O1)
+- [xdranel](https://github.com/xdranel)
 - [](https://github.com/)
 - [](https://github.com/)
 - [](https://github.com/)
