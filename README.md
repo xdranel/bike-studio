@@ -48,9 +48,9 @@ JANGAN LUPA Sebelum push ngomong o cik di grup, biar gk conflict biar pada pull 
 
 - [xdranel](https://github.com/xdranel)
 - [AzkaZafran](https://github.com/AzkaZafran)
-- [](https://github.com/)
-- [](https://github.com/)
-- [](https://github.com/)
+- [sijuki09](https://github.com/sijuki09)
+- [ahmadpasham1200](https://github.com/ahmadpasham1200)
+- [Arkkop12](https://github.com/Arkkop12)
 - [](https://github.com/)
 - [](https://github.com/)
 - [](https://github.com/)
