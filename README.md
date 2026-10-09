@@ -53,7 +53,7 @@ JANGAN LUPA Sebelum push ngomong o cik di grup, biar gk conflict biar pada pull 
 - [Arkkop12](https://github.com/Arkkop12)
 - [idilhaqalfarisi](https://github.com/idilhaqalfarisi)
 - [bram](https://github.com/bramastajaya)
-- [](https://github.com/)
+- [teguhryan](https://github.com/teguhryan)
 
 
 ## Made by our slow little brains
