@@ -52,9 +52,9 @@ JANGAN LUPA Sebelum push ngomong o cik di grup, biar gk conflict biar pada pull 
 - [ahmadpasham1200](https://github.com/ahmadpasham1200)
 - [Arkkop12](https://github.com/Arkkop12)
 - [idilhaqalfarisi](https://github.com/idilhaqalfarisi)
-- [](https://github.com/)
+- [bram](https://github.com/bramastajaya)
 - [](https://github.com/)
 
 
 ## Made by our slow little brains
-## ™gatau apa nama teamnya
+## ™gatau apa nama teamnya (tim bubadibako)
